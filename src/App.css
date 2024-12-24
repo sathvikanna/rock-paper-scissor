@@ -1,0 +1,13 @@
+#item {
+    font-size: xx-large;
+    cursor: pointer;
+}
+
+#winner {
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    color: burlywood;
+    font-weight: bolder;
+    font-size: x-large;
+}
